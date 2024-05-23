@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anil-Singh-Negi
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analyse help
 - 📫 How to reach me Anil-Singh-Negi
